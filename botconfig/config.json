@@ -1,0 +1,47 @@
+{
+   "token": "MTAwMzE2MDU2NjgxMjExNDk0NA.Gdj9TU.XoumRKp1pc9PAHzW6e28LsV-3IJqGs2XveS7M8",
+   "prefix": "?",
+   "ownerIDS": [
+      "854243240919433217"
+   ],
+   "status": {
+      "text": "Cinderace's Mansion",
+      "text2": "by: Symbiote Development",
+      "type": "WATCHING",
+      "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+      "url": "https://twitch.tv/milratoDiscordBot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "n1.lavalink.milrato.com",
+            "port": 10250,
+            "password": "discord.gg/milrato"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "a048ac950b494ba7adb227cad2e37370",
+      "clientID": "cf0d27371cea49debd864e91f0df56ee"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": ""
+      }
+   }
+}
